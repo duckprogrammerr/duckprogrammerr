@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel
 
 - 📫 How to reach me 
-   - Twitter [DuckProgrammerr](https://twitter.com/DuckProgrammerr)
+   - Twitter [MuhamedAlanazi](https://twitter.com/MuhamedAlanazi)
    - Email duckprogrammerr@gmail.com
    - Instagram [DuckProgrammer](https://instagram.com/DuckProgrammer)
    
